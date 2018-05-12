@@ -1,0 +1,26 @@
+_repo: Glories-of-Spain_33833
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33833-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Charles W. (Charles William)
+    alias: Wood, Charles William
+    gutenberg_agent_id: '36369'
+    url: http://www.gutenberg.org/2009/agents/36369
+description: ''
+gutenberg_issued: '2010-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33833'
+  lccn: 02010699
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Spain -- Description and travel'
+title: Glories of Spain
+url: http://www.gutenberg.org/ebooks/33833
